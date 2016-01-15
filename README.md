@@ -1,2 +1,1 @@
-# contentprovidercontacts
-sd
+This is just a practise for Git!
